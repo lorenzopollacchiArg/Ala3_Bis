@@ -1,10 +1,10 @@
 [
   {
     "titulo": "Diseñar algoritmo de ordenamiento",
-    "descripcion": "Esta tarea ya fue completada y modificada",
+    "descripcion": "Tarea revisada y finalizada",
     "estado": "FINISHED",
     "creacion": "2025-10-01T09:00:00",
-    "ultimaEdicion": "2026-11-11T14:42:33.174Z",
+    "ultimaEdicion": "2026-11-11T15:39:01.974Z",
     "vencimiento": "2025-10-15T23:59:00",
     "dificultad": 2
   },
@@ -913,6 +913,15 @@
     "descripcion": "Entender cómo pasar datos a las funciones",
     "estado": "PENDING",
     "creacion": "2026-11-11T14:42:33.168Z",
+    "ultimaEdicion": null,
+    "vencimiento": null,
+    "dificultad": 2
+  },
+  {
+    "titulo": "Completar Trabajo Practico",
+    "descripcion": "Aplicar persistencia y validaciones en Node.js",
+    "estado": "PENDING",
+    "creacion": "2026-11-11T15:39:01.970Z",
     "ultimaEdicion": null,
     "vencimiento": null,
     "dificultad": 2
